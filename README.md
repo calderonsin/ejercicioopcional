@@ -20,6 +20,6 @@
 - Generar la migracion con php artisan migrate
 - Crear una clave con php artisan key:generate
 -finalmente ejecturar con php artisan serve
-- Se debe poner la ruta /inicio/A657 para acceder a la zona de inicio
+- Se debe poner la ruta /inicio/A765 para acceder a la zona de inicio
 
 
